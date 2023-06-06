@@ -1,0 +1,11 @@
+* Why learning python
+
+//TODO > Why learning python text
+
+* How to join our community
+
+//TODO > Enter links of how to join our community
+
+* Installation of python and pygame links
+
+//TODO > LINKS To install pygame and python
